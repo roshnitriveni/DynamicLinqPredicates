@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\DynamicLinqPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\DynamicLinqPredicates.csprojAssemblyReference.cache
