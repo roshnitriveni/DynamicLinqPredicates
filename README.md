@@ -32,8 +32,7 @@ Else If (filter == "Salary")
 ```
 
 Another way is building  dynamic predicate based on user’s selection with less code
-Here field name and filter value both will be provi
-ded by User , for each individual criteria no need to write separate code.
+Here field name and filter value both will be provided by User , for each individual criteria no need to write separate code.
 
 ```C#
  var andCriteria = new List<Predicate<Employee>>();
