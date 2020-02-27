@@ -1,6 +1,7 @@
 # Dynamic Linq Predicates
 Build predicates and execute query at runtime
-Introduction
+
+## Introduction
 
 Have you ever tried to provide your users with a way to dynamically build their own query to filter a list? If you ever tried, maybe you found it a little complicated. If you never tried, it could be tedious to do. But, with the help of LINQ, it does not need to be that hard (indeed, it could be even enjoyable).
 
