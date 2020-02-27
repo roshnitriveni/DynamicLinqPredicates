@@ -14,7 +14,9 @@ Predicate Builder is a powerful LINQ expression that is mainly used when too man
 Filter record for the employees having salary  > 10000
 
 A typical Linq Predicate used will be 
-```C# x=> x.salary > 10000 ```
+```C#
+x=> x.salary > 10000 
+```
 
 But suppose you want to provide your users a way to choose on which field and with what value  they want to filter records like below
 
