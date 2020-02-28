@@ -18,8 +18,10 @@ A typical Linq Predicate used will be
 x=> x.salary > 10000 
 ```
 
-But suppose you want to provide your users a way to choose on which field and with what value  they want to filter records 
+But suppose you want to provide your users a way to choose on which field and with what value  they want to filter records like below
 ![Image Here](2020-02-22_13h19_47.png?raw=true "Dynamic filter from user input")
+
+
 One way is to write predicate for each individual filter and checking each time user hits 
 
 ```C#
