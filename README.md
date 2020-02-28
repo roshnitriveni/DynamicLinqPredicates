@@ -52,4 +52,4 @@ Here field name and filter value both will be provided by User , for each indivi
 
  result = employees.AsQueryable().Where(predicate).ToList();
 ```
-You can use the same logic when you want to apply filters  on multiple fields and want to sort data.
+You can use the same logic when you want to apply filters  on multiple fields and want to sort data.(Attached in demo)
