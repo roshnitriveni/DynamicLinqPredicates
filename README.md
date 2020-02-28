@@ -19,8 +19,7 @@ x=> x.salary > 10000
 ```
 
 But suppose you want to provide your users a way to choose on which field and with what value  they want to filter records 
-
-
+![Image Here](/roshnitriveni/DynamicLinqPredicates/blob/master/2020-02-22_13h19_47.png?raw=true "Dynamic filter from user input")
 One way is to write predicate for each individual filter and checking each time user hits 
 
 ```C#
